@@ -1,0 +1,12 @@
+0,1   H
+0,1   W
+4     nH
+4     nW
+100   initial temperature
+500   simulation time
+50    simulation step time
+1200  ambient temperature
+300   alfa
+700   specific heat
+25    conductivity
+7800  density
